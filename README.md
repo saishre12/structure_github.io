@@ -73,7 +73,14 @@
 </ol>
 
 <h3 id="check_dov()">Validating date of birth and joining of the employee</h3>
-
+<ol>
+  <li>We are calling the pointer variable new_emp of type emp.</li>
+  <li> Checking conditions seperately for date, month and year.</li>
+  <li> If in any condition we enter wrong input we will be re-entering the data again.</li>
+  </ol>
+  
+  <h3> Now, finally after getting all the inputs from the user combinedly we will be calling the print() function to print the data on the screen.</h3>
+  
 
 
 
